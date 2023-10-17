@@ -10,3 +10,5 @@ example-plotting-script and for now an initial start of a test-script.
 
 This update adds a nice figure, and the script to generate it, as well
 as a first test (to be later evolved into an integrated unit-test) 
+
+<img src="https://github.com/BjornG-son/Recaman-4-matlab/blob/main/Recaman-fig.png" width=75%>
